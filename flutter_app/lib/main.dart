@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         body: Card(
           child: Column(
             children: <Widget>[
-              Image(),
+              Image.asset('assets/burger.jpg'),
               Text('Food Paradise')
             ],
           ),
